@@ -1,0 +1,33 @@
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\bin\Debug\İstemci.exe.config
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\bin\Debug\İstemci.exe
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\bin\Debug\İstemci.pdb
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\bin\Debug\UzakNesne.dll
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\bin\Debug\UzakNesne.pdb
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\obj\Debug\İstemci.Properties.Resources.resources
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\obj\Debug\İstemci.csproj.GenerateResource.cache
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\obj\Debug\İstemci.csproj.CoreCompileInputs.cache
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\obj\Debug\İstemci.csproj.CopyComplete
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\obj\Debug\İstemci.exe
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\obj\Debug\İstemci.pdb
+C:\Users\Murat Can ORAK\source\repos\Output\İstemci.exe.config
+C:\Users\Murat Can ORAK\source\repos\Output\İstemci.exe
+C:\Users\Murat Can ORAK\source\repos\Output\İstemci.pdb
+C:\Users\Murat Can ORAK\source\repos\outputt\İstemci.exe.config
+C:\Users\Murat Can ORAK\source\repos\outputt\İstemci.exe
+C:\Users\Murat Can ORAK\source\repos\outputt\İstemci.pdb
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\obj\Debug\İstemci.csprojAssemblyReference.cache
+C:\Users\Murat Can ORAK\source\repos\İstemci\İstemci\obj\Debug\UzakNesne.Form1.resources
+E:\Daimia_E\DaimiaConnector_26.06.2019\DaimiaConnector\bin\Debug\İstemci.exe.config
+E:\Daimia_E\DaimiaConnector_26.06.2019\DaimiaConnector\bin\Debug\İstemci.exe
+E:\Daimia_E\DaimiaConnector_26.06.2019\DaimiaConnector\bin\Debug\İstemci.pdb
+C:\Users\Murat Can ORAK\source\repos\Remoting\Output\İstemci.exe.config
+C:\Users\Murat Can ORAK\source\repos\Remoting\Output\İstemci.exe
+C:\Users\Murat Can ORAK\source\repos\Remoting\Output\İstemci.pdb
+C:\Users\Murat Can ORAK\source\repos\Remoting\İstemci\İstemci\obj\Debug\İstemci.csprojAssemblyReference.cache
+C:\Users\Murat Can ORAK\source\repos\Remoting\İstemci\İstemci\obj\Debug\UzakNesne.Form1.resources
+C:\Users\Murat Can ORAK\source\repos\Remoting\İstemci\İstemci\obj\Debug\İstemci.Properties.Resources.resources
+C:\Users\Murat Can ORAK\source\repos\Remoting\İstemci\İstemci\obj\Debug\İstemci.csproj.GenerateResource.cache
+C:\Users\Murat Can ORAK\source\repos\Remoting\İstemci\İstemci\obj\Debug\İstemci.csproj.CoreCompileInputs.cache
+C:\Users\Murat Can ORAK\source\repos\Remoting\İstemci\İstemci\obj\Debug\İstemci.csproj.CopyComplete
+C:\Users\Murat Can ORAK\source\repos\Remoting\İstemci\İstemci\obj\Debug\İstemci.exe
+C:\Users\Murat Can ORAK\source\repos\Remoting\İstemci\İstemci\obj\Debug\İstemci.pdb

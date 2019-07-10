@@ -1,0 +1,6 @@
+C:\Users\Murat Can ORAK\source\repos\RemotingDeneme\UzakNesne\bin\Debug\UzakNesne.dll
+C:\Users\Murat Can ORAK\source\repos\RemotingDeneme\UzakNesne\bin\Debug\UzakNesne.pdb
+C:\Users\Murat Can ORAK\source\repos\RemotingDeneme\UzakNesne\obj\Debug\UzakNesne.csproj.CoreCompileInputs.cache
+C:\Users\Murat Can ORAK\source\repos\RemotingDeneme\UzakNesne\obj\Debug\UzakNesne.dll
+C:\Users\Murat Can ORAK\source\repos\RemotingDeneme\UzakNesne\obj\Debug\UzakNesne.pdb
+C:\Users\Murat Can ORAK\source\repos\RemotingDeneme\UzakNesne\obj\Debug\UzakNesne.csprojAssemblyReference.cache
